@@ -1,0 +1,109 @@
+{
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@redq/reuse-modal/es/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/flaticon.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-image-gallery/styles/css/image-gallery.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/reusecore/node_modules/rc-drawer/assets/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi ../../node_modules/next/dist/client/next": 0,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@redq/reuse-modal/es/index.css 0": 1,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/flaticon.css 0": 2,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/reusecore/node_modules/rc-drawer/assets/index.css 0": 3,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-image-gallery/styles/css/image-gallery.css 0": 4
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "styles": 2,
+      "static/VQldiReaqNHbVnQD9qFIz/pages/_app.js": 3,
+      "static/VQldiReaqNHbVnQD9qFIz/pages/_error.js": 4,
+      "static/VQldiReaqNHbVnQD9qFIz/pages/app.js": 5,
+      "static/VQldiReaqNHbVnQD9qFIz/pages/index.js": 6,
+      "static/runtime/main.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
